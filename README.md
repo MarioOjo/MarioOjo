@@ -1,12 +1,3 @@
-<!-- Banner Image -->
-<p align="center">
-  <img src="https://i.ibb.co/J3K1phW/github-banner-uiux.png" alt="Mario Ojo GitHub Banner" width="100%" />
-</p>
-
-<!-- Animated Intro -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mario+Surprise+Ojo+👋;UI%2FUX+Developer+%7C+Student+Developer;Designing+and+Building+Modern+Web+Experiences" alt="Typing SVG" />
-</p>
 
 <!-- Header -->
 <h1 align="center">👋 Hey there, I'm <strong>Mario Surprise Ojo</strong></h1>
@@ -52,6 +43,31 @@ From designing beautiful interfaces to building performant applications, I bring
 
 ---
 
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:241334@virtualwindow.co.za">
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/mario-ojo-a8bb66184/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
+  </a>
+  <a href="https://discord.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+  <a href="https://www.twitch.tv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
+  </a>
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  </a>
+</div>
+
+---
+
 ### 🚀 Featured Projects
 
 #### 🧩 [Capsule Corp Portfolio Website](https://ui-porfolio-capsule-corp-production.up.railway.app)
@@ -60,12 +76,17 @@ A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack
 #### 🍷 Vinoir
 A **luxury e-commerce experience** for premium wines — where elegance meets performance.
 
-#### 🎬 MovieVerse
+#### 🎬 Movie Ocean
 A **movie comparison platform** built for film lovers to discover and compare movies effortlessly.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Achievements
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MarioOjo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioOjo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioOjo&show_icons=true&theme=tokyonight" alt="Mario's GitHub Stats" />
@@ -74,27 +95,13 @@ A **movie comparison platform** built for film lovers to discover and compare mo
 
 ---
 
-### 🏆 GitHub Achievements
+### 🕹️ Contribution Fun
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarioOjo&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="mailto:241334@virtualwindow.co.za">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mario-ojo-a8bb66184/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ui-porfolio-capsule-corp-production.up.railway.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
