@@ -1,4 +1,14 @@
-<!-- Profile Header -->
+<!-- Banner Image -->
+<p align="center">
+  <img src="https://i.ibb.co/J3K1phW/github-banner-uiux.png" alt="Mario Ojo GitHub Banner" width="100%" />
+</p>
+
+<!-- Animated Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Mario+Surprise+Ojo+👋;UI%2FUX+Developer+%7C+Student+Developer;Designing+and+Building+Modern+Web+Experiences" alt="Typing SVG" />
+</p>
+
+<!-- Header -->
 <h1 align="center">👋 Hey there, I'm <strong>Mario Surprise Ojo</strong></h1>
 
 <p align="center">
@@ -55,6 +65,20 @@ A **movie comparison platform** built for film lovers to discover and compare mo
 
 ---
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioOjo&show_icons=true&theme=tokyonight" alt="Mario's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioOjo&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioOjo&theme=tokyonight&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
 
 ---
 
