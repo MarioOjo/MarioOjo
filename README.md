@@ -52,17 +52,8 @@ From designing beautiful interfaces to building performant applications, I bring
   <a href="https://www.linkedin.com/in/mario-ojo-a8bb66184/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
   </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo" />
-  </a>
-  <a href="https://discord.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
-  </a>
-  <a href="https://www.twitch.tv/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo" />
-  </a>
-  <a href="https://dev.to/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo" />
+  <a href="https://ui-porfolio-capsule-corp-production.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
 
@@ -76,8 +67,8 @@ A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack
 #### 🍷 Vinoir
 A **luxury e-commerce experience** for premium wines — where elegance meets performance.
 
-#### 🎬 Movie Ocean
-A **movie comparison platform** built for film lovers to discover and compare movies effortlessly.
+#### 🎬 [Movieverse](https://marioojo.github.io/mario-ojo-241334-formative-one-movie-verse/)
+A **movie comparison platform** built for film lovers to discover, explore, and compare movies effortlessly.
 
 ---
 
@@ -98,9 +89,9 @@ A **movie comparison platform** built for film lovers to discover and compare mo
 ### 🕹️ Contribution Fun
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioOjo/MarioOjo/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarioOjo/MarioOjo/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MarioOjo/MarioOjo/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
