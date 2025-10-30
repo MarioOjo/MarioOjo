@@ -60,7 +60,7 @@ A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack
 #### 🍷 Vinoir
 A **luxury e-commerce experience** for premium wines — where elegance meets performance.
 
-#### 🎬 Movie Ocean
+#### 🎬 MovieVerse
 A **movie comparison platform** built for film lovers to discover and compare movies effortlessly.
 
 ---
