@@ -1,5 +1,3 @@
-
-<!-- Header -->
 <h1 align="center">👋 Hey there, I'm <strong>Mario Surprise Ojo</strong></h1>
 
 <p align="center">
@@ -12,10 +10,10 @@
 
 ### 🧑‍💻 About Me
 
-I’m passionate about creating **intuitive, visually appealing, and robust full-stack web experiences**.  
+I'm passionate about creating **intuitive, visually appealing, and robust full-stack web experiences**.  
 From designing beautiful interfaces to building performant applications, I bring ideas to life with creativity and precision.
 
-🎮 When I’m not coding, I’m probably exploring the world of **Assassin’s Creed** — from the classics to *Syndicate*.  
+🎮 When I'm not coding, I'm probably exploring the world of **Assassin's Creed** — from the classics to *Syndicate*.  
 
 💡 My toolkit blends **React**, **Node.js**, and **Figma**, turning design concepts into meaningful, user-friendly digital experiences.
 
@@ -72,21 +70,20 @@ A **movie comparison platform** built for film lovers to discover, explore, and 
 
 ---
 
-### 📈 GitHub Stats & Achievements
+### 📈 GitHub Stats & Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MarioOjo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app/?username=MarioOjo&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioOjo&show_icons=true&theme=tokyonight" alt="Mario's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarioOjo&theme=tokyonight" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarioOjo&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="trophy graph" />
+</div>
 
 ---
 
-### 🕹️ Contribution Fun
+### 🎯 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarioOjo/MarioOjo/output/pacman-contribution-graph-dark.svg">
@@ -96,4 +93,12 @@ A **movie comparison platform** built for film lovers to discover, explore, and 
 
 ---
 
-> 🕸️ _“Websites promote you 24/7: No employee will do that.”_ — **Paul Cookson**
+### 💼 Let's Collaborate!
+
+I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision.
+
+📧 **Get in touch:** 241334@virtualwindow.co.za
+
+---
+
+> 🕸️ *"Websites promote you 24/7: No employee will do that."* — **Paul Cookson**
