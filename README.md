@@ -65,8 +65,7 @@ A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack
 #### 🍷 Vinoir
 A **luxury e-commerce experience** for premium wines — where elegance meets performance.
 
-#### 🎬 Movieverse
-https://marioojo.github.io/mario-ojo-241334-formative-one-movie-verse/ 
+#### 🎬 [Movieverse].(https://marioojo.github.io/mario-ojo-241334-formative-one-movie-verse/)
 A **movie comparison platform** built for film lovers to discover, explore, and compare movies effortlessly.
  
  
