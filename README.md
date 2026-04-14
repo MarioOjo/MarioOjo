@@ -59,7 +59,7 @@ From designing beautiful interfaces to building performant applications, I bring
 
 ### 🚀 Featured Projects
 
-#### 🧩 [Capsule Corp Portfolio Website](https://ui-porfolio-capsule-corp-production.up.railway.app)
+#### 🧩 [Capsule Corp Portfolio Website](https://porfolio-app-ub7q.onrender.com)
 A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack** development expertise using **React** and **Node.js**.
 
 #### 🍷 Vinoir
