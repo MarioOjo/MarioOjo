@@ -63,7 +63,7 @@ From designing beautiful interfaces to building performant applications, I bring
 A sleek, interactive **portfolio site** showcasing my **UI/UX** and **full-stack** development expertise using **React** and **Node.js**.
 
 #### 🍷 Vinoir
-A **luxury e-commerce experience** for premium wines — where elegance meets performance.
+A **mock luxury e-commerce experience** for premium wines — where elegance meets performance.
 
 #### 🎬 [Movieverse](https://marioojo.github.io/mario-ojo-241334-formative-one-movie-verse/)
 A **movie comparison platform** built for film lovers to discover, explore, and compare movies effortlessly.
